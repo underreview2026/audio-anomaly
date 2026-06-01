@@ -1,0 +1,17 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+pyod>=2.0
+librosa
+soundfile
+joblib
+matplotlib
+pyarrow
+torch
+
+# Optional: pretrained-embedding arms
+# panns_inference
+# transformers
+# laion-clap

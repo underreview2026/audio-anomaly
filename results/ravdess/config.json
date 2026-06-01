@@ -1,0 +1,25 @@
+{
+  "normal": [
+    "neutral",
+    "calm"
+  ],
+  "anomaly": [
+    "angry",
+    "fearful"
+  ],
+  "test_groups": [
+    21,
+    22,
+    23,
+    24
+  ],
+  "contamination": 0.1,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "n_features": 74
+}

@@ -1,0 +1,27 @@
+{
+  "normal": [
+    "air_conditioner",
+    "engine_idling",
+    "jackhammer",
+    "drilling",
+    "street_music",
+    "children_playing"
+  ],
+  "anomaly": [
+    "gun_shot",
+    "car_horn",
+    "siren"
+  ],
+  "test_groups": [
+    10
+  ],
+  "contamination": 0.1,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "n_features": 74
+}

@@ -1,0 +1,22 @@
+{
+  "normal": [
+    "normal"
+  ],
+  "anomaly": [
+    "crackle",
+    "wheeze",
+    "both"
+  ],
+  "test_groups": [
+    0
+  ],
+  "contamination": 0.1,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "n_features": 74
+}
