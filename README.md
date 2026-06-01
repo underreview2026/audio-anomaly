@@ -138,13 +138,14 @@ Released under the MIT License (see `LICENSE`).
 
 ## Citation
 
-If you use MAAD-Bench, please cite the accompanying paper:
+A paper describing MAAD-Bench is under review. Until it is published, please cite
+it as a manuscript submitted for publication:
 
 ```
-@article{maadbench2026,
-  title   = {MAAD-Bench: A Model-Agnostic Benchmark for Audio Anomaly Detection},
-  author  = {Qian Hao and Liang Zhao},
-  journal = {IEEE Access},
-  year    = {2026}
+@unpublished{maadbench2026,
+  title  = {MAAD-Bench: A Model-Agnostic Benchmark for Audio Anomaly Detection},
+  author = {Qian Hao and Liang Zhao},
+  note   = {Manuscript submitted for publication},
+  year   = {2026}
 }
 ```
